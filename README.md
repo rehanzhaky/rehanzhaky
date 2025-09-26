@@ -31,6 +31,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehanzhaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rehanzhaky&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanzhaky&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="60" alt="androidstudio logo"  />
@@ -90,14 +98,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehanzhaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=rehanzhaky&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanzhaky&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
